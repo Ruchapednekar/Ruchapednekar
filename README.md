@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on interisting IT projects
 - 📫 How to reach me : ruchapednekar08@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Loves exploring new technologies
 
 <!---
 Ruchapednekar/Ruchapednekar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
